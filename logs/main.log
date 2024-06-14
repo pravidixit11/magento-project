@@ -1,0 +1,7 @@
+2024-06-04 00:34:27,263 +0530 [main] INFO  (TC_CreateACC_001.java:14) - Url Is opened
+2024-06-04 00:34:30,781 +0530 [main] INFO  (TC_CreateACC_001.java:22) - Entered firstname
+2024-06-04 00:34:30,966 +0530 [main] INFO  (TC_CreateACC_001.java:24) - Entered lastname
+2024-06-04 00:34:31,250 +0530 [main] INFO  (TC_CreateACC_001.java:26) - Entered Email
+2024-06-04 00:34:31,523 +0530 [main] INFO  (TC_CreateACC_001.java:28) - Entered password
+2024-06-04 00:34:31,738 +0530 [main] INFO  (TC_CreateACC_001.java:30) - Entered cnfpwd
+2024-06-04 00:34:35,991 +0530 [main] INFO  (TC_CreateACC_001.java:32) - Clickoncreate account
