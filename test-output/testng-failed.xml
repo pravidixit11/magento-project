@@ -3,13 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.magneto.testcase.TC_SalePage_008">
+      <class name="com.magneto.testcase.TC_GearPage_006">
         <methods>
-          <include name="navigationButtontest"/>
+          <include name="Addproductthroughfiltertest"/>
+          <include name="wishlistProductthroughfiltertest"/>
+          <include name="filteroptiontest"/>
+          <include name="addtoComparethroughfiltertest"/>
           <include name="setup"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.magneto.testcase.TC_SalePage_008 -->
+      </class> <!-- com.magneto.testcase.TC_GearPage_006 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

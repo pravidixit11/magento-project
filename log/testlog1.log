@@ -1324,3 +1324,83 @@
 2024-06-15 00:43:35,043 [main] INFO MagnetoProject - Clicking on next button
 2024-06-15 00:43:36,888 [main] INFO MagnetoProject - Verify next button is not diplayed at the end of the product page
 2024-06-15 00:43:47,013 [main] INFO MagnetoProject - Next navigation is not displayed
+2024-06-15 01:04:59,819 [main] INFO MagnetoProject - Url Is opened
+2024-06-15 01:05:01,240 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-15 01:05:01,746 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-15 01:05:06,791 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-15 01:05:06,849 [main] INFO MagnetoProject - Clicking on Sale
+2024-06-15 01:05:08,500 [main] INFO MagnetoProject - Navigating to women sale page
+2024-06-15 01:05:12,496 [main] INFO MagnetoProject - Clicking on next button
+2024-06-15 01:05:24,146 [main] INFO MagnetoProject - Next navigation is not displayed
+2024-06-15 01:05:40,733 [main] INFO MagnetoProject - Url Is opened
+2024-06-15 01:05:44,115 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-15 01:05:44,277 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-15 01:05:46,851 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-15 01:05:48,710 [main] INFO MagnetoProject - SalePage verified successsfully
+2024-06-18 13:39:55,382 [main] INFO MagnetoProject - Url Is opened
+2024-06-18 22:41:17,080 [main] INFO MagnetoProject - Url Is opened
+2024-06-18 22:43:39,391 [main] INFO MagnetoProject - Url Is opened
+2024-06-18 22:43:46,727 [main] INFO MagnetoProject - Entered firstname
+2024-06-18 22:43:47,221 [main] INFO MagnetoProject - Entered lastname
+2024-06-18 22:43:47,687 [main] INFO MagnetoProject - Entered Email
+2024-06-18 22:43:48,583 [main] INFO MagnetoProject - Entered password
+2024-06-18 22:43:51,894 [main] INFO MagnetoProject - Entered cnfpwd
+2024-06-18 22:43:59,301 [main] INFO MagnetoProject - Account creation successful
+2024-06-19 11:31:07,102 [main] INFO MagnetoProject - Url Is opened
+2024-06-19 11:31:13,576 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-19 11:31:13,974 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-19 11:31:16,839 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-19 11:31:26,784 [main] INFO MagnetoProject - clicked on olivia jacket
+2024-06-19 11:31:27,032 [main] INFO MagnetoProject - Size select
+2024-06-19 11:31:27,176 [main] INFO MagnetoProject - Colour select
+2024-06-19 11:31:27,284 [main] INFO MagnetoProject - Quantity select
+2024-06-19 11:31:27,425 [main] INFO MagnetoProject - Product added to cart
+2024-06-19 11:31:32,611 [main] INFO MagnetoProject - Clicked on added to cart Logo
+2024-06-19 11:31:43,458 [main] INFO MagnetoProject - Clicked on ProceedtoCheckout
+2024-06-19 11:31:51,368 [main] INFO MagnetoProject - Clicked on Nextbtn
+2024-06-19 11:31:55,490 [main] INFO MagnetoProject - Clicked on placeOrder
+2024-06-19 11:31:59,594 [main] INFO MagnetoProject - product ordered successsfully
+2024-06-19 19:07:30,108 [main] INFO MagnetoProject - Url Is opened
+2024-06-19 19:07:32,447 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-19 19:07:33,037 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-19 19:07:35,426 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-19 19:07:41,108 [main] INFO MagnetoProject - clicked on fitnessEquipment
+2024-06-19 19:07:41,512 [main] INFO MagnetoProject - clicked oncategory
+2024-06-19 19:07:46,343 [main] INFO MagnetoProject - clicked on cardio
+2024-06-19 19:07:46,651 [main] INFO MagnetoProject - Cardio filter applied successfully
+2024-06-19 19:07:47,055 [main] INFO MagnetoProject - clicked on activity
+2024-06-19 19:07:51,399 [main] INFO MagnetoProject - clicked on sports
+2024-06-19 19:07:51,486 [main] INFO MagnetoProject - Sports filter applied successfully
+2024-06-19 19:07:54,330 [main] INFO MagnetoProject - clicked on cardioBall
+2024-06-19 19:07:57,117 [main] INFO MagnetoProject - clicked on wishlist
+2024-06-19 19:07:57,176 [main] INFO MagnetoProject - product wishlist successsfully
+2024-06-19 19:10:29,118 [main] INFO MagnetoProject - Url Is opened
+2024-06-19 19:10:32,580 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-19 19:10:32,839 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-19 19:10:37,460 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-19 19:10:41,592 [main] INFO MagnetoProject - clicked on fitnessEquipment
+2024-06-19 19:10:41,806 [main] INFO MagnetoProject - clicked oncategory
+2024-06-19 19:10:43,571 [main] INFO MagnetoProject - clicked on cardio
+2024-06-19 19:10:43,797 [main] INFO MagnetoProject - Cardio filter applied successfully
+2024-06-19 19:11:00,002 [main] INFO MagnetoProject - Url Is opened
+2024-06-19 19:11:04,811 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-19 19:11:05,066 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-19 19:11:07,621 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-19 19:11:12,021 [main] INFO MagnetoProject - clicked on fitnessEquipment
+2024-06-19 19:11:12,264 [main] INFO MagnetoProject - clicked oncategory
+2024-06-19 19:11:13,800 [main] INFO MagnetoProject - clicked on cardio
+2024-06-19 19:11:13,982 [main] INFO MagnetoProject - Cardio filter applied successfully
+2024-06-19 19:17:25,684 [main] INFO MagnetoProject - Url Is opened
+2024-06-19 19:17:28,027 [main] INFO MagnetoProject - Entered CustomerEmailID
+2024-06-19 19:17:28,248 [main] INFO MagnetoProject - Entered CustomerPassword
+2024-06-19 19:17:30,537 [main] INFO MagnetoProject - Customer loogeed in successfully
+2024-06-19 19:17:34,768 [main] INFO MagnetoProject - clicked on fitnessEquipment
+2024-06-19 19:17:34,872 [main] INFO MagnetoProject - clicked oncategory
+2024-06-19 19:17:36,192 [main] INFO MagnetoProject - clicked on cardio
+2024-06-19 19:17:36,325 [main] INFO MagnetoProject - Cardio filter applied successfully
+2024-06-19 19:17:36,740 [main] INFO MagnetoProject - clicked on activity
+2024-06-19 19:17:40,376 [main] INFO MagnetoProject - clicked on sports
+2024-06-19 19:17:40,489 [main] INFO MagnetoProject - Sports filter applied successfully
+2024-06-19 19:17:42,820 [main] INFO MagnetoProject - clicked on cardioBall
+2024-06-19 19:17:47,504 [main] INFO MagnetoProject - clicked on wishlist
+2024-06-19 19:17:47,618 [main] INFO MagnetoProject - product wishlist successsfully

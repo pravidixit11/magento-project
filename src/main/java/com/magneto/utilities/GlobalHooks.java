@@ -41,13 +41,12 @@ public class GlobalHooks {
 
 	@AfterMethod
 	public void tearDown() {
-	//	driver.close();
+		driver.quit();
 	}
 
 	public static void captureScreen( WebDriver driver,String tname) throws IOException{
 	  TakesScreenshot ts = (TakesScreenshot)driver;
 	  File  src = ts.getScreenshotAs(OutputType.FILE);
-	 // File dst = new File("C:\\Users\\USER\\Desktop\\Selenium\\ScreenShot\\ScreenShot.jpeg");
 	  File dst = new File("./screenshots/" + tname + ".png");
 	  FileHandler.copy(src, dst);
 	  System.out.println("Screenshot taken");
